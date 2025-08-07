@@ -1,0 +1,16 @@
+word_list = [ 'apple', 'banana', 'grape', 'orange', 'peach', 'pear', 'plum', 'kiwi', 'melon', 'berry',
+            'lego', 'spaceship', 'rocket', 'planet', 'star', 'galaxy', 'universe', 'comet', 'asteroid', 'blackhole', 'spongebob',
+            'patrick', 'squidward', 'krabby', 'burger', 'plankton', 'sandy', 'mrkrabs', 'gary', 'dora', 'boots',
+            'map', 'backpack', 'swiper', 'diego', 'baby', 'backpack', 'explorer', 'monkey', 'tiger', 'lion', 'elephant',
+            'giraffe', 'zebra', 'hippo', 'rhino', 'crocodile', 'alligator', 'snake', 'lizard', 'turtle', 'frog',
+            'fish', 'shark', 'whale', 'dolphin', 'octopus', 'squid', 'jellyfish', 'crab', 'lobster', 'shrimp',
+            'clownfish', 'seahorse', 'starfish', 'coral', 'seaweed', 'kelp', 'ocean', 'beach', 'sand', 'wave','batman'
+             'superman', 'spiderman', 'ironman', 'hulk', 'thor', 'captainamerica', 'wonderwoman', 'flash', 'aquaman', 'greenlantern',
+            'blackwidow', 'deadpool', 'wolverine', 'xmen', 'avengers', 'justiceleague', 'guardiansofthegalaxy', 'fantasticfour', 
+            ' starwars', 'luke', 'leia', 'vader', 'yoda', 'chewbacca', 'r2d2', 'c3po', 'han', 'solo',
+            'millenniumfalcon', 'deathstar', 'lightsaber', 'jedi', 'sith', 'force', 'droid', 'clone', 'stormtrooper',
+            'barbie', 'hotel', 'restaurant', 'cafe', 'bakery', 'supermarket', 'mall', 'cinema', 'theater', 'museum',
+            'zoo', 'aquarium', 'park', 'garden', 'beach', 'mountain', 'forest', 'desert', 'island', 'city',
+            'town', 'village', 'countryside', 'farm', 'field', 'meadow', 'valley', 'river', 'lake',
+            'pond', 'waterfall', 'canyon', 'cliff', 'volcano', 'earthquake', 'tornado', 'hurricane', 'tsunami', 'flood',
+            'fire', 'lightning', 'thunder', 'rainbow', 'snow', 'ice', 'hail', 'fog', 'rug', 'new york city', 'miami', 'austin', 'ohio', 'paris', 'naples', 'lagos']
