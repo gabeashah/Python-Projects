@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "digital clock",
+			"path": "."
+		},
+		{
+			"name": "Mr. Londons Blog",
+			"path": "../Mr. Londons Blog"
+		}
+	],
+	"settings": {}
+}
